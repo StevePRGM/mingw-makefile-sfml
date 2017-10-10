@@ -10,7 +10,7 @@
 int main()
 {
  std::vector<int> i1(1);
- std::cout << "Hello world!" << std::endl;
+ std::cout << "Hello world! 2" << std::endl;
 
  i1[0] = 6;
  i1.push_back(2);
